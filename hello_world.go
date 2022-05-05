@@ -1,5 +1,4 @@
 // my first go package
-
 package main
 
 import (
@@ -7,8 +6,7 @@ import (
 )
 
 // Main function
-
 func main() {
 
-	fmt.Println("!... Hello World ...!")
+	fmt.Println("Hello World")
 }
