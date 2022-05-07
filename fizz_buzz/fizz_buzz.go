@@ -1,4 +1,6 @@
 // Fizz buzz in Go
+// I think my version is better than the linkedin learning version
+// but then i am biased
 // May 2022
 package main
 

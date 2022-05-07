@@ -18,4 +18,6 @@ then we call the Println from the `fmt` package
 
 Go is strong typed, we need to declare the type before variable assignment.
 
+You can get it to predict the type using the `=:`
+
 
